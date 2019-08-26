@@ -1,5 +1,3 @@
 # Temperature_Converter
-.
-
 
 
